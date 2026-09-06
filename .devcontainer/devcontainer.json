@@ -1,0 +1,5 @@
+{
+  "name": "i035-pub-devcontainer-20260906",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "remoteUser": "codespace"
+}
